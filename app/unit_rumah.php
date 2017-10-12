@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class UnitRumah extends Model
+class unit_rumah extends Model
 {
     //
 }
